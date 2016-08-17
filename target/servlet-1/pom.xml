@@ -17,7 +17,7 @@
                 <version>2.1.1</version>
                 <configuration>
                     <warName>myApp</warName>
-                    <!--<warSourceDirectory>./</warSourceDirectory>-->
+                    <warSourceDirectory>.</warSourceDirectory>
                     <!--<failOnMissingWebXml>false</failOnMissingWebXml>-->
 
 
