@@ -17,7 +17,8 @@
                 <version>2.1.1</version>
                 <configuration>
                     <warName>myApp</warName>
-                    <warSourceDirectory>/var/lib/tomcat8/webapps</warSourceDirectory>
+                    <!--<warSourceDirectory>/var/lib/tomcat8/webapps</warSourceDirectory>-->
+                    <webappDirectory>/var/lib/tomcat8/webapps/myApp</webappDirectory>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
 
 
