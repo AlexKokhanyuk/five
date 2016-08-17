@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11d10237-7c59-4f6e-a167-3014beb4766e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/five_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/five_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/five_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/five_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kokhanyuk/servlet/Controller.java" afterPath="$PROJECT_DIR$/src/main/java/com/kokhanyuk/servlet/Controller.java" />
     </list>
     <ignored path="five.iws" />
@@ -27,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="153">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -57,14 +59,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kokhanyuk/servlet/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="85">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1471456642563" expanded="true" signature="1210:1254" ph="select * fro... user" />
+                <marker date="1471459085186" expanded="true" signature="1062:1106" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
@@ -93,10 +95,10 @@
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/out/artifacts/five_war_exploded/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/web-inf/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/kokhanyuk/servlet/Controller.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -133,7 +135,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="servlet" />
+          <option name="myItemId" value="myApp" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -143,7 +145,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="servlet" />
+          <option name="myItemId" value="myApp" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -832,15 +834,15 @@
       <workItem from="1463992297415" duration="34000" />
       <workItem from="1471377138518" duration="763000" />
       <workItem from="1471447014244" duration="1603000" />
-      <workItem from="1471456302378" duration="444000" />
+      <workItem from="1471456302378" duration="1087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7371000" />
+    <option name="totallyTimeSpent" value="8014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -924,7 +926,7 @@
           <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1471456642563" expanded="true" signature="1210:1254" ph="select * fro... user" />
+            <marker date="1471459085186" expanded="true" signature="1062:1106" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -959,7 +961,7 @@
           <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1471456642563" expanded="true" signature="1210:1254" ph="select * fro... user" />
+            <marker date="1471459085186" expanded="true" signature="1062:1106" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -994,7 +996,7 @@
           <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1471456642563" expanded="true" signature="1210:1254" ph="select * fro... user" />
+            <marker date="1471459085186" expanded="true" signature="1062:1106" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -1029,16 +1031,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1471456642563" expanded="true" signature="1210:1254" ph="select * fro... user" />
+            <marker date="1471459085186" expanded="true" signature="1062:1106" ph="select * fro... user" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,12 +1054,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kokhanyuk/servlet/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        <state relative-caret-position="85">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1471456642563" expanded="true" signature="1210:1254" ph="select * fro... user" />
+            <marker date="1471459085186" expanded="true" signature="1062:1106" ph="select * fro... user" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
