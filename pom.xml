@@ -18,7 +18,7 @@
                 <configuration>
                     <warName>myApp</warName>
                     <!--<warSourceDirectory>./</warSourceDirectory>-->
-                    <!--<failOnMissingWebXml>false</failOnMissingWebXml>-->
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
 
 
                 </configuration>
