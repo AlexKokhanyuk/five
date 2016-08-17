@@ -31,24 +31,24 @@ public class Controller extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         StringBuilder users = new StringBuilder("  Users");
-        Statement stmt = null;
+      //  Statement stmt = null;
 
 
-        Connection conn = (Connection) getServletContext().getAttribute("connection");
-        try {
-
-            conn.setAutoCommit(true);
-            stmt = conn.createStatement();
-            stmt.executeQuery("select * from user where username='Kolesnik'");
-            ResultSet rs = stmt.getResultSet();
-            while (rs.next()) {
-                users.append("Id " + rs.getInt("id") + " Name " + rs.getString("UserName") + " password " + rs.getString("password") + "\n");
-            }
-            users.append("One");
-
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
+      //  Connection conn = (Connection) getServletContext().getAttribute("connection");
+//        try {
+//
+//            conn.setAutoCommit(true);
+//            stmt = conn.createStatement();
+//            stmt.executeQuery("select * from user where username='Kolesnik'");
+//            ResultSet rs = stmt.getResultSet();
+//            while (rs.next()) {
+//                users.append("Id " + rs.getInt("id") + " Name " + rs.getString("UserName") + " password " + rs.getString("password") + "\n");
+//            }
+//            users.append("One");
+//
+//        } catch (SQLException e) {
+//            e.printStackTrace();
+//        }
 
         PrintWriter out = response.getWriter();
         String s = "Hello" + users.toString();
